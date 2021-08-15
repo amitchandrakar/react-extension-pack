@@ -1,0 +1,42 @@
+{
+	"name": "laravel",
+	"displayName": "AMIT React JS Extension Pack",
+	"description": "A collection of extensions for React JS development by Amit Chandrakar",
+	"version": "1.0.0",
+	"publisher": "amitchandrakar",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amitchandrakar/react-extension-pack"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f66f62",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"react",
+		"javascript",
+		"extensions",
+		"amit",
+		"amitchandrakar",
+		"amit react",
+		"amit react extension",
+		"react extension amit"
+	],
+	"extensionPack": [
+		"mgmcdermott.vscode-language-babel",
+		"xabikos.reactsnippets",
+		"christian-kohler.path-intellisense",
+		"christian-kohler.npm-intellisense",
+		"jasonnutter.search-node-modules",
+		"xabikos.JavaScriptSnippets",
+		"eg2.vscode-npm-script",
+		"dbaeumer.vscode-eslint"
+	]
+}
